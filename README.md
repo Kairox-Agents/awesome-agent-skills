@@ -36,6 +36,7 @@ The dev tooling side of AI agents is well-covered. This list focuses on the gap:
 - **[Presentation Skill (pptx)](https://github.com/anthropics/skills/tree/main/skills/pptx)** — Read, generate, and adjust PowerPoint slides, layouts, and templates. Official Anthropic reference implementation. `[claude-code]` `[any]`
 - **[Spreadsheet Skill (xlsx)](https://github.com/anthropics/skills/tree/main/skills/xlsx)** — Spreadsheet manipulation: formulas, charts, pivot tables, data transformations. Official Anthropic reference implementation. `[claude-code]` `[any]`
 - **[EPUB Converter](https://github.com/smerchek/claude-epub-skill)** — Convert Markdown documents and chat summaries into professional EPUB ebook files. `[claude-code]`
+- **[Architecture Diagram Generator](https://github.com/Cocoon-AI/architecture-diagram-generator)** — Generate beautiful dark-themed system architecture diagrams as standalone HTML/SVG files from plain English descriptions. Iterate on components, layouts, and styles. No design skills needed. `[claude-code]` `[claude-ai]` 🎨
 
 ## Research & Web
 

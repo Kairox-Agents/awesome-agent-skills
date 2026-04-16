@@ -314,4 +314,18 @@ const HARNESSES = [
   { id: "codex", label: "Codex" },
   { id: "any", label: "Framework-agnostic" },
   { id: "standalone", label: "Standalone" }
+,
+  {
+    id: "architecture-diagram-generator",
+    name: "Architecture Diagram Generator",
+    category: "documents",
+    tags: ["architecture", "diagrams", "svg", "html", "visualization", "system-design"],
+    description: "Generate beautiful dark-themed system architecture diagrams as standalone HTML/SVG files. Describe your system in plain English, and the skill produces a professional diagram. Iterate quickly — add components, change layouts, update styles. Output is a single HTML file, no special software required.",
+    repo: "https://github.com/Cocoon-AI/architecture-diagram-generator",
+    stars: null,
+    harnesses: ["claude-code", "claude-ai"],
+    highlight: true,
+    actrun: true,
+    badge: "🎨 Visual"
+  }
 ];
