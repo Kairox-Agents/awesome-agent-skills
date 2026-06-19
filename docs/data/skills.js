@@ -292,6 +292,18 @@ const SKILLS = [
     highlight: true,
     actrun: false,
     badge: "📊 Benchmark"
+  },
+  {
+    id: "notfair",
+    name: "NotFair — SEO & Paid-Ads Agent Skills",
+    category: "knowledge-work",
+    tags: ["seo", "google-ads", "meta-ads", "marketing", "paid-ads", "geo", "mcp", "claude-code"],
+    description: "Claude Code skills for SEO, GEO, Google Ads, and Meta Ads. Covers site analysis, keyword research, meta tags, schema markup, content writing, wasted-spend detection, bid management, creative fatigue, and audience overlap. Connects to live data via Google Ads MCP, Meta Ads MCP, Google Search Console MCP, and Google Analytics (GA4) MCP.",
+    repo: "https://github.com/nowork-studio/NotFair",
+    stars: "2.9k+",
+    harnesses: ["claude-code"],
+    highlight: false,
+    actrun: false
   }
 ];
 

@@ -28,6 +28,7 @@ The dev tooling side of AI agents is well-covered. This list focuses on the gap:
 
 - **[Google Workspace CLI (gws)](https://github.com/googleworkspace/cli)** — One CLI for all of Google Workspace: Drive, Gmail, Calendar, Sheets, Docs, Chat, Admin. 40+ agent skills included, dynamically built from Google Discovery API. Built explicitly for AI agents doing knowledge work. `[claude-code]` `[gemini-cli]` `[any]` 🌟
 - **[Baserow](https://github.com/baserow/baserow)** — Open-source no-code database + AI agents + automations. GDPR/HIPAA/SOC2 compliant, self-hostable. Build structured data systems and automations for knowledge work — no code. `[any]`
+- **[NotFair](https://github.com/nowork-studio/NotFair)** ⭐ 2.9k — Claude Code skills for SEO, GEO, Google Ads, and Meta Ads. Covers [SEO](https://github.com/nowork-studio/NotFair/tree/main/seo) (site analysis, keyword research, meta tags, schema markup, content writing), [Google Ads](https://github.com/nowork-studio/NotFair/tree/main/google-ads) (audits, wasted-spend detection, bid management), and [Meta Ads](https://github.com/nowork-studio/NotFair/tree/main/meta-ads) (ROAS, creative fatigue, audience overlap). Connects to live data via Google Ads MCP, Meta Ads MCP, Google Search Console MCP, and Google Analytics (GA4) MCP. `[claude-code]`
 
 ## Documents & Files
 
