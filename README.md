@@ -29,6 +29,7 @@ The dev tooling side of AI agents is well-covered. This list focuses on the gap:
 - **[Google Workspace CLI (gws)](https://github.com/googleworkspace/cli)** — One CLI for all of Google Workspace: Drive, Gmail, Calendar, Sheets, Docs, Chat, Admin. 40+ agent skills included, dynamically built from Google Discovery API. Built explicitly for AI agents doing knowledge work. `[claude-code]` `[gemini-cli]` `[any]` 🌟
 - **[Baserow](https://github.com/baserow/baserow)** — Open-source no-code database + AI agents + automations. GDPR/HIPAA/SOC2 compliant, self-hostable. Build structured data systems and automations for knowledge work — no code. `[any]`
 
+- **[linkedin-skills](https://github.com/Linked-API/linkedin-skills/tree/main/linkedin)** — Fetch LinkedIn profiles, search people and companies, send messages, manage connections, create posts, react, comment, and run custom LinkedIn workflows from Claude Code, Codex, Cursor, and Windsurf.
 ## Documents & Files
 
 - **[Word Document Skill (docx)](https://github.com/anthropics/skills/tree/main/skills/docx)** — Create, edit, and analyze Word documents with tracked changes, comments, and formatting. Official Anthropic reference implementation, powers Claude's native document capabilities. `[claude-code]` `[any]`
