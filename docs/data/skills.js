@@ -292,6 +292,18 @@ const SKILLS = [
     highlight: true,
     actrun: false,
     badge: "📊 Benchmark"
+  },
+  {
+    id: "orkas-video-studio",
+    name: "OrkasVideoStudio",
+    category: "documents",
+    tags: ["video", "editing", "composition", "timeline", "content-ops", "local-first"],
+    description: "Plan, compose, edit, generate, and assemble videos from editable plan.json timelines with coding agents. Includes reusable SKILL.md workflows, a TypeScript CLI, and MCP tooling.",
+    repo: "https://github.com/Orkas-AI/Orkas-VideoStudio",
+    stars: "500+",
+    harnesses: ["codex", "any"],
+    highlight: false,
+    actrun: false
   }
 ];
 

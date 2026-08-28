@@ -37,6 +37,7 @@ The dev tooling side of AI agents is well-covered. This list focuses on the gap:
 - **[Spreadsheet Skill (xlsx)](https://github.com/anthropics/skills/tree/main/skills/xlsx)** — Spreadsheet manipulation: formulas, charts, pivot tables, data transformations. Official Anthropic reference implementation. `[claude-code]` `[any]`
 - **[EPUB Converter](https://github.com/smerchek/claude-epub-skill)** — Convert Markdown documents and chat summaries into professional EPUB ebook files. `[claude-code]`
 - **[Architecture Diagram Generator](https://github.com/Cocoon-AI/architecture-diagram-generator)** — Generate beautiful dark-themed system architecture diagrams as standalone HTML/SVG files from plain English descriptions. Iterate on components, layouts, and styles. No design skills needed. `[claude-code]` `[claude-ai]` 🎨
+- **[OrkasVideoStudio](https://github.com/Orkas-AI/Orkas-VideoStudio)** — Plan, compose, edit, generate, and assemble videos from editable timeline files with coding agents. `[codex]` `[any]`
 
 ## Research & Web
 
